@@ -1,6 +1,6 @@
 
 
-let num1 = 10;
+let num1 = 100;
 let num2 = 5;
 
 let addition = num1 + num2;
