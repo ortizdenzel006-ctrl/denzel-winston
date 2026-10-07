@@ -1,5 +1,5 @@
 let num1 = 10000;
-let num2 = 200;
+let num2 = 5;
 
 console.log("===== CALCULATOR =====");
 console.log("Number 1: " + num1);
@@ -15,15 +15,7 @@ console.log("Power: " + (num1 ** num2));
 console.log("Average: " + ((num1 + num2) / 2));
 console.log("Maximum: " + Math.max(num1, num2));
 console.log("Minimum: " + Math.min(num1, num2));
-console.log("Are they equal? " + (num1 === num2));
 
-console.log("Percentage: " + ((num2 / num1) * 100) + "%");
-console.log("Absolute Difference: " + Math.abs(num1 - num2));
-
-if (num1 > num2) {
-    console.log("Number 1 is greater than Number 2");
-} else if (num1 < num2) {
-    console.log("Number 1 is less than Number 2");
-} else {
-    console.log("Both numbers are equal");
-}
+console.log("Double Number 1: " + (num1 * 2));
+console.log("Triple Number 2: " + (num2 * 3));
+console.log("Half of Number 1: " + (num1 / 2));
