@@ -1,14 +1,11 @@
-
-
 let num1 = 10000;
 let num2 = 5;
 
-let addition = num1 + num2;
-let subtraction = num1 - num2;
-let multiplication = num1 * num2;
-let division = num1 / num2;
+console.log("===== CALCULATOR =====");
+console.log("Number 1: " + num1);
+console.log("Number 2: " + num2);
 
-console.log("Addition: " + addition);
-console.log("Subtraction: " + subtraction);
-console.log("Multiplication: " + multiplication);
-console.log("Division: " + division);
+console.log("Addition: " + (num1 + num2));
+console.log("Subtraction: " + (num1 - num2));
+console.log("Multiplication: " + (num1 * num2));
+console.log("Division: " + (num1 / num2));
