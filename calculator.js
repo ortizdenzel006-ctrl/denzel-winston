@@ -1,5 +1,5 @@
 let num1 = 10000;
-let num2 = 5;
+let num2 = 200;
 
 console.log("===== CALCULATOR =====");
 console.log("Number 1: " + num1);
