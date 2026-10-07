@@ -10,11 +10,8 @@ console.log("Subtraction: " + (num1 - num2));
 console.log("Multiplication: " + (num1 * num2));
 console.log("Division: " + (num1 / num2));
 console.log("Remainder: " + (num1 % num2));
-console.log("Power: " + (num1 ** num2));
 
-console.log("Average: " + ((num1 + num2) / 2));
 console.log("Maximum: " + Math.max(num1, num2));
-console.log("Minimum: " + Math.min(num1, num2));
 
 console.log("Double Number 1: " + (num1 * 2));
 console.log("Triple Number 2: " + (num2 * 3));
